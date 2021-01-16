@@ -1,4 +1,5 @@
 # Feedforward Neural Networks
+*Refer to [File Directory.md](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN_Assignment/File%20Directory.md) for full list of files with description*
 ## Classification - Part A Introduction
 This project aims at building neural networks to classify the Cardiotocography dataset containing measurements of fetal heart rate (FHR) and uterine contraction (UC) features on 2126 cardiotocograms classified by expert obstetricians. The objective is to **design a feedforward neural network that classifies the fetal cardiotocograms according to the fetal state class code** (N= normal; S=suspect; P=pathologic).
 
