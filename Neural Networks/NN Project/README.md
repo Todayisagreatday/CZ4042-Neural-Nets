@@ -1,11 +1,15 @@
 # Project Description
-Automatic gender classification has been used in many applications including image analysis on social platforms. The goal of this project is to classify the gender of faces in an image. One can design a convolutional neural network to achieve this goal. Tasks:
+![sample_images](https://i.imgur.com/vinysJt.jpg)
+
+Automatic gender classification has been used in many applications including image analysis on social platforms. The goal of this project is to **classify the gender of faces in an image**. One can design a convolutional neural network to achieve this goal. Tasks:
 1. Modify some previously published architectures e.g., increase the network depth, reducing their parameters, etc.
 2. Consider age and gender recognition simultaneously to take advantage of the gender-specific age characteristics and age-specific gender characteristics inherent to images
 3. Consider pre-training using the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 # Overview
+![overview](https://i.imgur.com/yOFv0OE.png)
 
-
+# Dataset Size
+![dataset_size](https://i.imgur.com/baj0a66.jpg)
 
 # File Directory
 Refer to [File Directory.md](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN%20Project/File%20Directory.md) for the full list of files with description.
