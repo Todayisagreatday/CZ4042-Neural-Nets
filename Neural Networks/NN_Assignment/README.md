@@ -3,7 +3,7 @@
 This project aims at building neural networks to classify the Cardiotocography dataset containing measurements of fetal heart rate (FHR) and uterine contraction (UC) features on 2126 cardiotocograms classified by expert obstetricians. The objective is to **design a feedforward neural network that classifies the fetal cardiotocograms according to the fetal state class code** (N= normal; S=suspect; P=pathologic).
 
 ### Overview - Part A
-_
+<br>
 
 ![overview](https://i.imgur.com/2G9nIWr.jpg)
 
@@ -15,5 +15,7 @@ Statement of Purpose and Letter of Recommendation (out of 5), undergraduate GPA 
 getting admitted into the master’s program**. The predicted parameter is the chance of getting an admit. (ranging from 0 to 1)
 
 ### Overview - Part B
+
+<br>
 
 ![overview](https://i.imgur.com/MVKo8iV.jpg)
