@@ -11,6 +11,25 @@ Automatic gender classification has been used in many applications including ima
 # Overview
 ![overview](https://i.imgur.com/yOFv0OE.png)
 
+# Highlights
+### Dataset Size
+![dataset_size](https://i.imgur.com/baj0a66.jpg)
+
+### Plotting Acc/Loss Graphs in wandb
+Accuracy             |  Loss
+:-------------------------:|:-------------------------:
+![acc](https://i.imgur.com/WdK8vG8.jpg)  |  ![loss](https://i.imgur.com/ZrySfPg.jpg)
+
+*Blue line is continuation of red line*
+
+### Final Results
+| Model                   | Test Accuracy | Test Loss | Epochs |
+| ----------------------- | ------------- | --------- | ------ |
+| Baseline MNV2           | 0.8827        | 0.5182    | 20     |
+| MNV2 Pretrained         | 0.9147        | 0.1865    | 50     |
+| MNV2 Tuned              | 0.934         | 0.06276   | 50     |
+| MNV2 Tuned + Pretrained | 0.9287        | 0.7237    | 50     |
+
 # File Directory
 Refer to [File Directory.md](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN%20Project/File%20Directory.md) for the full list of files with description.
 
