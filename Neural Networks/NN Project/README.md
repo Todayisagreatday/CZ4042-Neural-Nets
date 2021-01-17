@@ -66,6 +66,6 @@ There are 2 ways of running the notebooks.
 
 [Data Augmentation in Keras](https://keras.io/api/preprocessing/image/#imagedatagenerator-class)
 
-[Loading Data using flow_from_dataframe methodwan](https://keras.io/api/preprocessing/image/#flowfromdataframe-method)
+[Loading Data using flow_from_dataframe method](https://keras.io/api/preprocessing/image/#flowfromdataframe-method)
 
 [Recording model results using wandb](https://wandb.ai/site)
