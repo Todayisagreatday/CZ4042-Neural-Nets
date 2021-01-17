@@ -54,9 +54,18 @@ There are 2 ways of running the notebooks.
 5. Ensure that the directory path to ```aligned_gender.txt``` is correct when loading the dataframe using ```pd.readcsv()```
 6. Ensure that the image path is correctly added to the dataframe
 
-# Additional Notes
-*Hyperparameter sweeps are exclusive to wandb. Method 2 will not be able to run sweeps.* 
+- *Hyperparameter sweeps are exclusive to wandb. Method 2 will not be able to run sweeps.* 
+- *Most notebooks are done in Google Colab and downloaded on Google Drive.* 
+- *In the event that you are unable to run it, do add .ipynb to the file name*
 
-*Most notebooks are done in Google Colab and downloaded on Google Drive.* 
+# Resources
 
-*In the event that you are unable to run it, do add .ipynb to the file name*
+[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.sg/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+
+[Transfer learning & fine-tuning in Keras](https://keras.io/guides/transfer_learning/)
+
+[Data Augmentation in Keras](https://keras.io/api/preprocessing/image/#imagedatagenerator-class)
+
+[Loading Data using flow_from_dataframe methodwan](https://keras.io/api/preprocessing/image/#flowfromdataframe-method)
+
+[Recording model results using wandb](https://wandb.ai/site)
