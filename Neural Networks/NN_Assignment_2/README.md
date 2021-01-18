@@ -1,6 +1,9 @@
 # Assignment 2
 
-[View Report](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN_Assignment_2/5.%20Report%20and%20Diagrams/Ng_Chen_Ee_Kenneth_A2_report.pdf)
+- [View assignment report](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN_Assignment_2/5.%20Report%20and%20Diagrams/Ng_Chen_Ee_Kenneth_A2_report.pdf)
+
+- [View assignment objectives](https://github.com/Todayisagreatday/CZ4042-Neural-Nets/blob/main/Neural%20Networks/NN_Assignment_2/7.%20Assignment_2_objectives.pdf)
+
 ## Object Recognition with CNN - Part A
 
 ### Introduction 
@@ -9,7 +12,7 @@
   <img width="470" height="365" src="https://i.imgur.com/TIjrg8H.jpg)">
 </p>
 
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
 The dataset is divided into five training batches and one test batch, each with 10,000 images. The test batch contains exactly 1000 randomly selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
