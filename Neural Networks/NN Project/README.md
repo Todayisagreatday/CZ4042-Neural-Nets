@@ -74,4 +74,6 @@ There are 2 ways of running the notebooks.
 
 [Loading Data using flow_from_dataframe method](https://keras.io/api/preprocessing/image/#flowfromdataframe-method)
 
-[Recording model results using wandb](https://wandb.ai/site)
+[Recording model results using wandb](https://wandb.ai/site/articles/intro-to-keras-with-weights-biases)
+
+[Hyperparameter optimization using sweeps](https://medium.com/six-ways-to-debug-a-machine-learning-model/hyperparameter-optimization-using-sweeps-with-w-b-1e9d94dda46)
