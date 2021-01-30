@@ -3,10 +3,16 @@
 
 Automatic gender classification has been used in many applications including image analysis on social platforms. The goal of this project is to **classify the gender of faces in an image from the [Adience Dataset](https://talhassner.github.io/home/projects/Adience/Adience-data.html)**. One can design a convolutional neural network to achieve this goal. 
 
-**Tasks:**
+### Tasks:
 1. Modify some previously published architectures e.g., increase the network depth, reducing their parameters, etc.
 2. Consider age and gender recognition simultaneously to take advantage of the gender-specific age characteristics and age-specific gender characteristics inherent to images
 3. Consider pre-training using the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+### Group Members
+
+1. [Ng Chen Ee Kenneth](https://github.com/Todayisagreatday)
+2. [Ngo Jun Hao Jason](https://github.com/NgoJunHaoJason)
+3. [Goh Yong Wei](https://github.com/YongWei12)
 
 # Overview
 ![overview](https://i.imgur.com/yOFv0OE.png)
