@@ -23,7 +23,7 @@ getting admitted into the master’s program**. The predicted parameter is the c
 
 ![overview](https://i.imgur.com/MVKo8iV.jpg)
 
-## Running python files
+## Running Python Files
 For folders Part A Sweeps and Part B, [wandb](https://towardsdatascience.com/logging-with-weights-biases-da048e3cbc8b) was used to log the results. There are two methods of running the files in these folders.  
 
 ### Method 1
@@ -43,5 +43,3 @@ For folders Part A Sweeps and Part B, [wandb](https://towardsdatascience.com/log
 5. Ensure that the directory path is correct when loading the data
 
 - *Hyperparameter sweeps are exclusive to wandb. Method 2 will not be able to run sweeps.* 
-- *Most notebooks are done in Google Colab and downloaded on Google Drive.* 
-- *In the event that you are unable to run it, do add .ipynb to the file name*
